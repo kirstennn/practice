@@ -3,3 +3,6 @@
 | trying to make a table | hi |
 | -------------------- |------     |
 |does it have to be even? | guess not   |
+
+
+#Contributing to this via kirstennn...
